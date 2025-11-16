@@ -1,6 +1,8 @@
 
 #hi this a new repo
 
+#ME TOMO ALGO DE TIEMPO HACER ESTO
+
 """ Para crear un repositorio de git  
 necesitas tener git instalado en tu computadora.
 crea una carpeta nueva y copias su ruta.
